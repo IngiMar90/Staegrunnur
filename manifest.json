@@ -1,0 +1,21 @@
+{
+  "name": "Grunn stærðfræði",
+  "short_name": "Grunn stærðfræði",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff7ef",
+  "theme_color": "#ff8a3d",
+  "lang": "is",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
